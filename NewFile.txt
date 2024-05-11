@@ -1,3 +1,4 @@
 This is new line.
 
+This is the second cause of conflict.
 This is the first cause of conflict.
